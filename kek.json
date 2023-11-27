@@ -1,0 +1,17 @@
+[
+    {"type":"info","seed":1056238400,"countVertex":6,"density":9,"size":5},
+    {"type":"startPoint","x":2.0,"y":2.0},
+    {"type":"endPoint","x":98.0,"y":98.0},
+    {"type":"polygon","points":[
+        {"type":"point","x":15,"y":15},
+        {"type":"point","x":15,"y":45},
+        {"type":"point","x":45,"y":45},
+        {"type":"point","x":45,"y":15}
+    ]},
+    {"type":"polygon","points":[
+        {"type":"point","x":50,"y":50},
+        {"type":"point","x":50,"y":90},
+        {"type":"point","x":90,"y":90},
+        {"type":"point","x":90,"y":50}
+    ]}
+]
